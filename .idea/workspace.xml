@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3ef8fbfd-e8e2-4df0-b216-c2124f4ed841" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Medium/447.Number_of_Boomerangs.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Easy/844.Backspace_String_Compare.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Medium/1006.Clumsy_Factorial.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/LeetCodeSolutions.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
